@@ -208,7 +208,6 @@ Central University of Jammu
 
 [![IBM](https://img.shields.io/badge/IBM-Python_for_Data_Science,_AI_%26_Development-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d0d0d)](https://www.coursera.org)
 &nbsp;
-[![Apna College](https://img.shields.io/badge/Apna_College-Prime:_Complete_AI%2FML_Preparation-7c3aed?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0d0d)](https://apnacollege.in)
 
 </div>
 
