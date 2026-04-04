@@ -8,11 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnchitaSharma21&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AnchitaSharma21?style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/AnchitaSharma21)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/anchita-sharma-b077843aa)
 
 </div>
 
