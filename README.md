@@ -6,9 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+ML+systems+that+solve+real+problems.;Prompt+Engineering+%2B+Data+%2B+NLP+%2B+Healthcare+AI.;From+raw+data+to+deployable+intelligence.)](https://git.io/typing-svg)
 
-<br/>
-
-
 </div>
 
 ---
