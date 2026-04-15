@@ -96,37 +96,26 @@
 ## 🔬 Projects
 
 <details>
-<summary><b>🩺 Vitamin D Deficiency Prediction System</b> &nbsp;|&nbsp; <code>ML · Healthcare · Predictive Modeling</code> &nbsp; — click to expand</summary>
+<summary><b>🛡 SafeRoute — AI-Powered Safe Navigation System</b> &nbsp;|&nbsp; <code>Geospatial AI · Routing · Real-Time Data</code> &nbsp; — click to expand</summary>
 
 <br/>
 
-> **Problem:** Vitamin D deficiency affects ~1 billion people globally. Clinical diagnosis requires blood tests — inaccessible, delayed, and costly.
+> **Problem:** Traditional navigation systems optimize for shortest or fastest routes — ignoring real-world safety risks such as crime-prone areas, especially critical during night travel.
 
 **Approach**
-- Designed a non-invasive ML pipeline using lifestyle and demographic attributes as predictive features
-- Conducted end-to-end data preprocessing: null handling, normalization, categorical encoding
-- Engineered domain-specific features derived from sun exposure patterns, dietary habits, and activity data
-- Training classification models to flag high-risk individuals before clinical onset
+- Built a context-aware routing system that prioritizes **user safety over shortest distance**
+- Integrated multiple real-time news APIs to extract incident and crime-related data
+- Used Gemini API to process unstructured news data into meaningful geospatial signals
+- Applied H3 hexagonal indexing to convert raw location data into structured risk zones
+- Leveraged OSRM to generate multiple route options and dynamically avoid unsafe regions
+- Designed logic to reroute users away from high-risk zones instead of blindly following shortest paths
+
+**System Design**
+- Serverless architecture using Next.js API routes and cloud-based services
+- Real-time data ingestion + processing pipeline for dynamic risk mapping
+- Interactive map interface with visual safety zones (safe, caution, high-risk)
 
 **Stack**
-```
-Python · Scikit-Learn · Pandas · NumPy · Jupyter Notebook
-```
-
-**Mentored by** — Dr. Arvind Selwal, Central University of Jammu
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Active%20Development-7c3aed?style=flat-square&labelColor=0d0d0d)
-![Domain](https://img.shields.io/badge/Domain-Healthcare%20AI-blueviolet?style=flat-square&labelColor=0d0d0d)
-![Type](https://img.shields.io/badge/Type-Predictive%20Model-5b21b6?style=flat-square&labelColor=0d0d0d)
-
-</details>
-
-<br/>
-
----
-
 ## 💼 Experience
 
 <details>
