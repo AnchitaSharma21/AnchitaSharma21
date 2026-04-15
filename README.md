@@ -86,8 +86,10 @@
 
 ## 🔬 Projects
 
+## 🔬 Projects
+
 <details>
-<summary><b>🛡 SafeRoute — AI-Powered Safe Navigation</b> | <code>Geospatial AI · Routing · Real-Time Systems</code></summary>
+<summary><b>🛡 SafeRoute — AI-Powered Safe Navigation</b> | Geospatial AI · Routing · Real-Time Systems</summary>
 
 <br/>
 
@@ -119,10 +121,6 @@ Next.js · Supabase · OSRM · H3 · Mapbox GL JS · Gemini API · News APIs
 H3 enables computational spatial indexing, unlike heatmaps which are only visual  
 
 <br/>
-
-![Status](https://img.shields.io/badge/Status-Production%20Ready-7c3aed?style=flat-square&labelColor=0d0d0d)
-![Domain](https://img.shields.io/badge/Domain-Geospatial%20AI-blueviolet?style=flat-square&labelColor=0d0d0d)
-![Type](https://img.shields.io/badge/Type-Decision%20Intelligence%20System-5b21b6?style=flat-square&labelColor=0d0d0d)
 
 </details>
 
