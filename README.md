@@ -86,7 +86,6 @@
 
 ## 🔬 Projects
 
-## 🔬 Projects
 
 <details>
 <summary><b>🛡 SafeRoute — AI-Powered Safe Navigation</b> | Geospatial AI · Routing · Real-Time Systems</summary>
